@@ -20,3 +20,10 @@ console.log(vacio.length)
 
 const ultimoElemento = frutas[frutas.length]
 console.log(ultimoElemento)
+
+
+//Añadir elemento nuevo al arreglo: push (Al final de la lista)
+//arreglo.push(elementoNuevo)
+
+frutas.push("naranja", "fresa");
+console.log(frutas);
